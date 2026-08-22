@@ -84,7 +84,8 @@ class Student(){
 
 ### Super Calling Statement
 - Calling super class constructor by using super calling statement.
-**Note* :
+  
+**Note**:
   1.  It is not possible to have `this` calling statement and `super` calling under a single constructor, either this calling statement or super calling constructor.
   2.  Inside constructor, `this` calling statement or the `super` calling statement is first executable statement.
 
