@@ -183,4 +183,3 @@ This repository is maintained as a personal Core Java learning and practice trac
 
 **👩‍💻 Author**  
 Hari Priya Kanuganti  
-*Java Full Stack Developer | Java | Spring Boot | React | MySQL*
