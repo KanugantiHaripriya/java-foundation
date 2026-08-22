@@ -74,4 +74,18 @@ class Student(){
 - By using parameter constructor we can maintain different values for each object.
 - This is more convenient to compare other constructors.
 
+### Constructor Overlaoding
+- Constructor overloading is the feature of object-oriented programming in which a class has more than one constructor with the same name but different parameter lists (different number, type, or order of parameters). It allows objects to be initialized in different ways.
+**Drawback**
+  1. Code redundancy(Repetation of Code)
+
+### Constructor Chaining
+- Calling the constructor inside another constructor by using `this` calling statement or `super` calling statement is called constructor chaining.
+
+### Super Calling Statement
+- Calling super class constructor by using super calling statement.
+**Note* :
+  1.  It is not possible to have `this` calling statement and `super` calling under a single constructor, either this calling statement or super calling constructor.
+  2.  Inside constructor, `this` calling statement or the `super` calling statement is first executable statement.
+
 
